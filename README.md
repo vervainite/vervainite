@@ -1,152 +1,119 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:5b2a86,100:ff5e9c&height=240&section=header&text=SABIANITO&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=vibe%20coder%20%C2%B7%20BSIT%20student%20%C2%B7%20builder%20in%20progress&descAlignY=62&descSize=18" alt="Sabianito" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,55:5b2a86,100:ff5e9c&height=230&section=header&text=Sabianito&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20student%20%C2%B7%20building%20apps%20with%20AI%20%C2%B7%20learning%20in%20public&descAlignY=60&descSize=18" alt="Sabianito" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=FF5E9C&center=true&vCenter=true&width=600&height=40&lines=%24+whoami+%E2%86%92+sabianito+%E2%9C%A8;%24+mode+%E2%86%92+vibe_coding;%24+status+%E2%86%92+building+Vein+%F0%9F%92%AA;%24+motto+%E2%86%92+still+learning.+still+shipping." alt="Typing SVG" /></a>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=dart,flutter,java,js,html,css,git,github,figma,vscode&theme=dark" alt="skills" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1400&color=FF5E9C&center=true&vCenter=true&width=620&height=40&lines=I+turn+ideas+into+working+apps.;Curious+first%2C+expert+later.;Currently+building+a+fitness+app." alt="Typing SVG" /></a>
 
 </div>
 
 <br/>
 
-<h2>🖥️ about.js</h2>
+<h2>Hi, I'm Sabianito</h2>
 
-<pre>
-const sabianito = {
-  role: "BSIT Student & Vibe Coder",
-  fuel: ["curiosity", "AI pair programming", "late-night ideas"],
-  building: "Vein, a Flutter fitness app",
-  learning: ["Flutter & Dart", "Java", "HTML/CSS/JS", "Git & GitHub", "UI/UX"],
-  philosophy: "Ideas first. Prompt well. Read the code. Ship it."
-};
-</pre>
+<p>
+I'm an Information Technology student who loves turning ideas into things people can actually use.
+I build apps and websites by combining my own ideas with AI tools: I describe what I want,
+test what comes out, fix what breaks, and keep improving it until it works well.
+</p>
 
-<p><i>I'm not an expert, I'm just someone who loves turning ideas into things that actually run, and understanding them a little better every time.</i></p>
+<p>
+You don't need to be technical to follow along. If you have an idea, I enjoy figuring out how to make it real.
+</p>
 
 <br/>
 
-<h2>🎛️ The Vibe Loop</h2>
+<h2>What I'm Building</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Vein</h3>
+      <p>A mobile fitness app made to make working out simpler and more motivating. Currently in active development.</p>
+      <sub>Built with Flutter and Dart</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Next up</h3>
+      <p>Small web projects and design experiments, so I can keep sharpening what I know and show it off here.</p>
+      <sub>HTML, CSS and JavaScript</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h2>How I Work</h2>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>1. Start with the idea</b>
+      <p>Every project begins with a clear picture of who it helps and what it should feel like.</p>
+    </td>
+    <td width="33%" valign="top">
+      <b>2. Build and test fast</b>
+      <p>I work with AI to get a first version quickly, then try it out, break it and improve it.</p>
+    </td>
+    <td width="33%" valign="top">
+      <b>3. Understand what I ship</b>
+      <p>I read and question the code I use, so I can explain it and keep getting better.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h2>What I'm Learning</h2>
+
+<table>
+  <tr>
+    <td><b>Mobile apps</b></td>
+    <td>Flutter and Dart</td>
+  </tr>
+  <tr>
+    <td><b>Websites</b></td>
+    <td>HTML, CSS and JavaScript</td>
+  </tr>
+  <tr>
+    <td><b>Programming fundamentals</b></td>
+    <td>Java</td>
+  </tr>
+  <tr>
+    <td><b>Design</b></td>
+    <td>UI/UX and prototyping in Figma</td>
+  </tr>
+  <tr>
+    <td><b>Teamwork tools</b></td>
+    <td>Git and GitHub</td>
+  </tr>
+</table>
+
+<br/>
+
+<h2>Tools I Use</h2>
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center">💡<br/><b>Idea</b></td>
-    <td align="center">➜</td>
-    <td align="center">🗣️<br/><b>Prompt</b></td>
-    <td align="center">➜</td>
-    <td align="center">🤖<br/><b>Generate</b></td>
-    <td align="center">➜</td>
-    <td align="center">🧪<br/><b>Test</b></td>
-    <td align="center">➜</td>
-    <td align="center">🐛<br/><b>Debug</b></td>
-    <td align="center">➜</td>
-    <td align="center">🚀<br/><b>Ship</b></td>
-  </tr>
-</table>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,js,html,css,git,github,figma,vscode&theme=dark" alt="Tools" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+
 </div>
 
-<h3>My rules for vibe coding</h3>
+<br/>
 
-<ul>
-  <li>🗣️ <b>Be specific.</b> Good prompts include context, constraints and examples.</li>
-  <li>🔍 <b>Read what I ship.</b> If I can't explain it, I'm not done.</li>
-  <li>🧪 <b>Test early.</b> Run it, break it, then fix it.</li>
-  <li>🌱 <b>Commit often.</b> Small commits mean fearless experiments.</li>
-  <li>🎨 <b>Design matters.</b> Vibes live in the UI.</li>
-</ul>
+<h2>My Goal</h2>
+
+<p>
+To keep learning, build things I'm proud of, and become a better developer with every project.
+I'm not an expert yet, and I'm happy to learn in the open.
+</p>
 
 <br/>
 
-<h2>🚧 Now Building</h2>
-
-<table>
-  <tr>
-    <th align="left">Project</th>
-    <th align="left">Status</th>
-    <th align="left">Stack</th>
-  </tr>
-  <tr>
-    <td>💪 <b>Vein</b>, a mobile fitness app</td>
-    <td>🟢 In active development</td>
-    <td>Flutter · Dart</td>
-  </tr>
-  <tr>
-    <td>🧪 <i>Your next idea</i></td>
-    <td>💭 Brewing</td>
-    <td>—</td>
-  </tr>
-</table>
-
-<!-- Add a link: <a href="https://github.com/vervainite/REPO-NAME">Vein</a> -->
-
-<h3>Roadmap</h3>
-
-<ul>
-  <li>✅ Learn the Flutter &amp; Dart basics</li>
-  <li>✅ Start building Vein</li>
-  <li>⬜ Ship a first public build</li>
-  <li>⬜ Publish a web project with HTML, CSS &amp; JS</li>
-  <li>⬜ Write a README for every repo</li>
-  <li>⬜ Contribute to an open source project</li>
-</ul>
-
-<br/>
-
-<h2>🧰 Stack &amp; Tools</h2>
-
-<table>
-  <tr>
-    <td><b>📱 Mobile</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>🌐 Web</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>☕ Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-      <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>🤖 AI</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>🎨 Design</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-      <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>🐙 Workflow</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h2>📊 Stats</h2>
+<h2>GitHub Activity</h2>
 
 <div align="center">
 
@@ -157,29 +124,13 @@ const sabianito = {
 
 <img src="https://streak-stats.demolab.com/?user=vervainite&theme=radical&hide_border=true" alt="GitHub streak" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vervainite&theme=react-dark&hide_border=true&bg_color=0d0221&color=ff5e9c&line=5b2a86&point=ffffff" alt="Contribution graph" width="100%" />
-
 </div>
 
 <br/>
 
-<h2>🐍 Contribution Snake</h2>
+<h2>Let's Connect</h2>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vervainite/vervainite/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vervainite/vervainite/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/vervainite/vervainite/output/github-snake.svg" />
-</picture>
-</div>
-
-<!-- The snake appears after .github/workflows/snake.yml is added and run once from the Actions tab. -->
-
-<br/>
-
-<h2>🌐 Let's Connect</h2>
+<p>Open to chats, feedback, collaborations and good ideas.</p>
 
 <div align="center">
 
@@ -188,12 +139,12 @@ const sabianito = {
 
 <br/><br/>
 
-<i>"Good vibes. Good prompts. Good builds."</i> ✨
+<i>Still learning. Still exploring. Still building.</i>
 
 <br/><br/>
 
 <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=vervainite&icon=10&color=ff5e9c&label=Profile+views&style=flat-square" alt="Profile views" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff5e9c,50:5b2a86,100:0d0221&height=120&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff5e9c,55:5b2a86,100:0d0221&height=110&section=footer" alt="footer" />
 
 </div>
