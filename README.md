@@ -1,35 +1,43 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey%2C%20I'm%20Sabianito!&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSIT%20Student%20%7C%20Aspiring%20Developer&descAlignY=58&descSize=18" alt="header" />
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:5b2a86,100:ff5e9c&height=200&section=header&text=Sabianito&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=vibe%20coder%20%E2%9C%A8%20idea%20%E2%86%92%20prompt%20%E2%86%92%20ship&descAlignY=58&descSize=18" alt="header" />
 
 Typing SVG
 
 </div>
-👋 About Me
+⚡ whoami
 
-I'm an Information Technology student learning one project at a time. I enjoy experimenting with tools, languages, and ideas: building things, breaking them, fixing them, and learning from the process.
+Hey, I'm Sabianito, a BSIT student and vibe coder. I turn ideas into working software by pairing my curiosity with AI: describe it, build it, test it, tweak it, ship it.
 
-I'm not an expert, just curious and enjoying the journey.
+I'm not here to memorize syntax. I'm here to build things that work and understand them better with every iteration.
 
-🎓 BSIT student
-📱 Building mobile apps with Flutter & Dart
-🌐 Sharpening my web fundamentals (HTML, CSS, JavaScript)
-🎨 Designing interfaces in Figma
-🎯 Goal: build things I'm proud of and become a better developer every day
+🧠 Ideas first, then prompts, then code
+🤖 Building with AI as my pair programmer
+🔍 I read, run and question the code, because vibes without understanding break fast
+🚢 Ship small, learn fast, improve daily
+🎛️ My Vibe Coding Loop
+text
+ 💡 idea  →  🗣️ prompt  →  🤖 generate  →  🧪 run & test  →  🐛 debug  →  🔁 refine  →  🚀 ship
+Step	What I do
+💡 Idea	Sketch the feature or app in plain words (and Figma when it needs visuals)
+🗣️ Prompt	Give clear context, constraints and examples
+🧪 Test	Run it, break it, find what's off
+🔍 Understand	Read the code until I know why it works
+🚀 Ship	Commit to Git, push to GitHub, repeat
 🔭 Currently Exploring
-Area	What I'm working on
-📱 Mobile	Flutter & Dart: state management, clean UI, app structure
-🌐 Web	HTML, CSS & JavaScript: responsive layouts, small interactive projects
-☕ Backend basics	Java: OOP and problem solving
-🐙 Workflow	Git & GitHub: branching, commits, pull requests
-🎨 Design	UI/UX principles and prototyping
-🚀 Featured Projects
-<!-- Replace the links and descriptions with your own as you ship things! -->
-Project	Description	Stack
+📱 Flutter & Dart: building real mobile apps
+🌐 HTML, CSS & JavaScript: the fundamentals behind every web vibe
+☕ Java: learning the logic underneath
+🐙 Git & GitHub: version control so I can experiment without fear
+🎨 UI/UX & Web Design: because good vibes need good interfaces
+🤖 Prompting & AI-assisted dev: getting better at telling AI exactly what I want
+🚀 Featured Builds
+<!-- Replace with your own links and descriptions as you ship! -->
+Project	Vibe	Stack
 💪 Vein	A mobile fitness app (in active development)	Flutter · Dart
-🧪 Your next project	Add a one-line description of what it does	—
+🧪 Next build	One line about what it does	—
 
-📌 Tip: pin your 4–6 best repositories on your profile so they show up right under this section.
+📌 Tip: pin your 4–6 best repos so they show up right under this section.
 
-💻 Tech Stack
+🧰 Tech Stack
 
 Languages
 
@@ -39,21 +47,21 @@ Frameworks & Tools
 
 Show Image Show Image Show Image Show Image
 
-Design
+AI & Design
 
-Show Image Show Image
+Show Image Show Image Show Image
 
 📊 GitHub Stats
-<div align="center"> <img height="170" src="https://github-readme-stats.shion.dev/api?username=vervainite&show_icons=true&theme=blue_navy&hide_border=false&count_private=false" alt="GitHub stats" /> <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vervainite&theme=blue_navy&hide_border=false&layout=compact" alt="Top languages" /> <img src="https://streak-stats.demolab.com/?user=vervainite&theme=blue_navy&hide_border=false" alt="GitHub streak" /> </div>
+<div align="center"> <img height="170" src="https://github-readme-stats.shion.dev/api?username=vervainite&show_icons=true&theme=radical&hide_border=false&count_private=false" alt="GitHub stats" /> <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vervainite&theme=radical&hide_border=false&layout=compact" alt="Top languages" /> <img src="https://streak-stats.demolab.com/?user=vervainite&theme=radical&hide_border=false" alt="GitHub streak" /> </div>
 🌐 Let's Connect
 
 Facebook Instagram
 
 <div align="center">
 
-"Still learning. Still exploring. Still building."
+"Good vibes. Good prompts. Good builds." ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff5e9c,100:1a0b2e&height=100&section=footer" alt="footer" />
 
 komarev.com
 
